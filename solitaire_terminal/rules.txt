@@ -1,0 +1,14 @@
+							Pyramid Solitaire Rules
+1) Cards are deleted in pairs if the sum of their values are 13.
+
+2) The value of the ace - 1, the jack - 11, the queen - 12, the king - 13.
+
+3) Kings are deleted alone.
+
+4)To delete a pair of cards, write their names (KS) one by one through Enter.
+
+5) To change stock - choose 2 (Stock rotation)
+   Left card - is the current available card
+
+<< Press Enter to start game >>
+
